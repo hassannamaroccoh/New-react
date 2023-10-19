@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.we{
+  margin-top: 10rem;
+  background-color: orange;
+  height: 50vh;
+}
+.we >h3{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    padding: 3rem;
+    color: white;
+}
+.we >P{
+    text-align: center;
+    color: black;
+    color: white;
+}
